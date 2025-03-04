@@ -8,6 +8,13 @@
   },
   "keywords": [],
   "author": "Tyler Seabury <tylerseabury@protonmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJSeabury/async-queue.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TJSeabury/async-queue/issues"
+  },
   "license": "MIT",
   "packageManager": "pnpm@10.4.1",
   "devDependencies": {
