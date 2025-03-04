@@ -1,0 +1,19 @@
+{
+  "name": "async-queue",
+  "version": "0.1.0",
+  "description": "A queue for managing asynchronous tasks (Promises) with iterable access. Tasks can be enqueued and later retrieved via iteration, allowing for lazy, consumer-driven processing. The queue is reusable after teration by adding more tasks.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tyler Seabury <tylerseabury@protonmail.com>",
+  "license": "MIT",
+  "packageManager": "pnpm@10.4.1",
+  "devDependencies": {
+    "@types/jest": "^29.5.14",
+    "@types/node": "^22.13.9",
+    "ts-jest": "^29.2.6",
+    "typescript": "^5.8.2"
+  }
+}
